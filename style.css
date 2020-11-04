@@ -1,0 +1,92 @@
+body{ background-color:rgb(206, 226, 202);}
+
+b body {
+    background-color: rgb(123, 177, 123);
+    }
+
+    * {
+      margin: 0%;
+      padding: 0%;
+     }
+  
+    .container {
+      text-align: center;
+      font-family: 'Quicksand', sans-serif;
+      font-weight: 100;
+      background-color: rgb(71, 119, 71);
+      width: 100%;
+      margin: 0%;
+    }
+    
+   
+    nav ul {
+        list-style: none;
+      }
+    
+      nav li {
+          display: inline-block;
+          margin-left: 25px;
+          padding-top: 25px;
+          padding-bottom: 25px;
+      }
+    
+      nav a {
+          text-decoration: none;
+          color: white;
+          
+      }
+
+      
+      h1 {
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Quicksand', sans-serif;
+        color: rgb(36, 68, 36);
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+
+      .center {
+        width: 55%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+
+      h2 {
+        color: rgb(36, 68, 36); 
+        font-family: 'Quicksand', sans-serif;    
+        font-size: 30px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+      }
+
+      .banner, p {
+        color:black;  
+        font-family: 'Quicksand', sans-serif;    
+        font-size: 20px;  
+        text-align: center;
+        margin-bottom: 25px;        
+      }
+
+       
+
+      #about, p{
+        text-align: center; 
+      }
+
+
+      #tree {
+        margin-left: 50px;
+        margin-bottom: 50px;
+      }
+      
+
+      td {
+        color:black;  
+        font-family: 'Quicksand', sans-serif;    
+        font-size: 17px;
+        padding-left: 5%;
+        padding-right: 10%;
+      }
